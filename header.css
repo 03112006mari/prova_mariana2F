@@ -1,0 +1,6 @@
+.cabecalho_menu-cafeteria{
+    width: 24px;
+    height: 24px;
+    background-image: url(../prova/carro.svg);
+    display: inline-block;
+}
